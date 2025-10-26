@@ -1,1 +1,20 @@
-placeholder
+{
+  "name": "Physis",
+  "symbol": "PHY",
+  "description": "Physis starts here.",
+  "image": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@v1/phy/logo-256.v1.png",
+  "external_url": "https://phys.is",
+  "extensions": {
+    "twitter": "https://x.com/PhysisVerse",
+    "website": "https://phys.is"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@v1/phy/logo-256.v1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
