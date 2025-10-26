@@ -1,6 +1,6 @@
-# Physis Metadata Repository
+# Physis Ecosystem Metadata Repository
 
-This repository serves as the **canonical source of metadata and digital assets** for all tokens, products, and ecosystem components within the **Physis Network**.
+This repository serves as the **canonical source of metadata and digital assets** for all tokens, products, and ecosystem components within **Physis**.
 
 ## Purpose
 
@@ -110,5 +110,4 @@ All metadata and associated assets are released under the **Physis Open Asset Li
 
 ---
 
-**Physis Network**
 Physis Labs © 2025
