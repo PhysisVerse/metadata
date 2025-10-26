@@ -1,0 +1,16 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temp files and scripts
+*.tmp
+*.log
+*.bak
+*.swp
+/tmp/
+/cache/
+/__pycache__/
+
+# Editor / IDE configs
+.vscode/
+.idea/
