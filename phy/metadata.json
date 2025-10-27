@@ -2,7 +2,7 @@
   "name": "Physis",
   "symbol": "PHY",
   "description": "Physis starts here.",
-  "image": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@v1/phy/orb-ti-trans-256.png",
+  "image": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@main/phy/orb-ti-trans-256.png",
   "external_url": "https://phys.is",
   "extensions": {
     "twitter": "https://x.com/PhysisVerse",
@@ -12,7 +12,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@v1/phy/orb-ti-trans-256.png",
+        "uri": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@main/phy/orb-ti-trans-256.png",
         "type": "image/png"
       }
     ]
