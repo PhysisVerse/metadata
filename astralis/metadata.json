@@ -1,20 +1,8 @@
 {
   "name": "ASTRALIS",
   "symbol": "ASTRALIS",
-  "description": "The spatial-intelligence token powering ASTRALIS",
+  "description": "The spatial-intelligence token powering ASTRALIS.",
   "image": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@main/astralis/astralis_1500x1500_8bit.png",
   "external_url": "https://constellation.phys.is/",
-  "extensions": {
-    "twitter": "https://x.com/ASTRALISnet",
-    "website": "https://constellation.phys.is/"
-  },
-  "properties": {
-    "category": "image",
-    "files": [
-      {
-        "uri": "https://cdn.jsdelivr.net/gh/PhysisVerse/metadata@main/astralis/astralis_1500x1500_8bit.png",
-        "type": "image/png"
-      }
-    ]
-  }
+  "twitter": "https://x.com/ASTRALISnet"
 }
