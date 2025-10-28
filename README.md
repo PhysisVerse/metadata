@@ -76,7 +76,7 @@ Older tags remain accessible for audit and historical reference.
 
 ## Standards
 
-* **File format:** JSON (UTF-8) following [Metaplex Token Metadata Standard](https://docs.metaplex.com/programs/token-metadata/overview)
+* **File format:** JSON (UTF-8) following [Metaplex Token Metadata Standard](https://developers.metaplex.com/token-metadata/token-standard)
 * **Images:** PNG, 256×256 or 512×512, < 200 KB
 * **Headers:** Served automatically by jsDelivr with proper `Content-Type` and CORS support.
 
